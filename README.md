@@ -1,4 +1,4 @@
-<h1> ✨PROFILE DESCRIPTION✨\
+<h1> ✨PROFILE DESCRIPTION✨<br/>
     
 Hello, nice to meet you.
 
