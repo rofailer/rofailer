@@ -1,5 +1,4 @@
-<h1> PROFILE DESCRIPTION /n
-    
+<h1> PROFILE DESCRIPTION /n   
 ✨Hello, nice to meet you✨
 
 Im just chilling, for the moment im hard practicing some c#, c++, python, etc. For video game devеlopment and other stuffs..
