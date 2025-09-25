@@ -48,11 +48,6 @@
   <td width="33%" valign="top" align="center">
     <h3>📫 Connect with Me</h3>
     <p>
-      <a href="https://github.com/rofailer">
-        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </p>
-    <p>
       <a href="www.linkedin.com/in/roberto-david-florez-bernal-a4369b35b">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
