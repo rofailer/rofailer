@@ -22,7 +22,7 @@
                   </a>
                   </p>
                 </div>
-              <img src="https://github.com/rofailer.png" alt="GitHub profile picture"/>
+                <img src="https://i.pinimg.com/736x/0f/b3/75/0fb37521d198da547705a3c9c2ec11f4.jpg" alt="Kiryu Yakuza GIF"/>
             </td>
         </tr>
     </table>
@@ -48,18 +48,21 @@
 
 <!-- GitHub Stats -->
 <div align="left">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=rofailer&show_icons=true&theme=dracula&hide_border=true" alt="Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofailer&theme=dracula&hide_border=true" alt="Streak" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofailer&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="160"/>
+    <h3>📊 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=rofailer&show_icons=true&theme=dracula&hide_border=true" alt="Stats" height="140"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofailer&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="140"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofailer&theme=dracula&hide_border=true" alt="Streak" height="140"/>
 </div>
 
 <!-- Connect -->
 <div>
-  <h3>📫 Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/roberto-david-florez-bernal-a4369b35b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+    <h3>📫 Connect with Me</h3>
+    <a href="https://www.linkedin.com/in/roberto-david-florez-bernal-a4369b35b" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:robertodavid45@hotmail.com">
+        <img src="https://img.shields.io/badge/Email-robertodavid45@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
 </div>
 
 ---
@@ -68,5 +71,4 @@
 <div align="center">
   <p><strong>Thank you for visiting my profile! 😎💪</strong><br>
     Always open to new collaborations and interesting conversations.</p>
-  <img src="https://i.pinimg.com/736x/0f/b3/75/0fb37521d198da547705a3c9c2ec11f4.jpg" alt="Kiryu Yakuza GIF" width="300"/>
 </div>
