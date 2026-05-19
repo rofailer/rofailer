@@ -18,7 +18,8 @@
                   <h3>🎧 Now Playing on Spotify</h3>
                   <p align="center">
                   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mdjoxe33io69nk4rictu8ndi6&redirect=true">
-                      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mdjoxe33io69nk4rictu8ndi6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
+                      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mdjoxe33io69nk4rictu8ndi6&cover_image=true&theme=spotify
+                          embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
                   </a>
                   </p>
                 </div>
@@ -49,9 +50,10 @@
 <!-- GitHub Stats -->
 <div align="left">
     <h3>📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=rofailer&show_icons=true&theme=dracula&hide_border=true" alt="Stats" height="140"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofailer&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="140"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofailer&theme=dracula&hide_border=true" alt="Streak" height="140"/>
+    <img src="https://github-readme-stats-rofailer.vercel.app/api?username=rofailer&show_icons=true&theme=dracula&hide_border=true" alt="Stats" height="140"/>
+    <img src="https://github-readme-stats-rofailer.vercel.app/api/top-langs/?username=rofailer&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="140"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofailer&theme=dracula&hide_border=true" alt="Streak" height="140"/> <br>
+    <sub><em><strong>Note:</strong> The statistics shown here are generated using information from public repositories only.</em></sub>
 </div>
 
 <!-- Connect -->
