@@ -6,10 +6,7 @@
             <td width="50%" align="left">
               <h1>Hi, i'm rofailer 👋🐺</h1>
               <h3>About me:</h3>
-              <p></p><strong>I'm a multimedia Engineer</strong> and <strong>software developer</strong> focused on <strong>Frontend Development</strong> with a growing interest in <strong>Backend Technologies</strong>.<br><br>
-              Passionate about crafting digital solutions that blend <strong>design</strong>, <strong>interaction</strong>, and <strong>technology</strong>, turning ideas into <strong>dynamic and efficient web experiences</strong>.<br><br>
-              Driven by <strong>innovation</strong>, <strong>continuous learning</strong>, and the creation of applications that balance <strong>aesthetics</strong> and <strong>functionality</strong>.<br><br>
-              Always learning and adding new skills to my personal repertoire 🌱 </p>
+              <p><strong>I'm a multimedia Engineer</strong> and <strong>software developer</strong> focused on <strong>Frontend Development</strong> with a growing interest in <strong>Backend Technology</strong>. Passionate about crafting digital solutions that blend <strong>design</strong>, <strong>interaction</strong>, and <strong>technology</strong>, turning ideas into <strong>dynamic and efficient applications</strong>. Driven by <strong>innovation</strong>, <strong>continuous learning</strong>, and the creation of applications that balance <strong>aesthetics</strong> and <strong>functionality</strong>. Always learning and adding new skills to my personal repertoire 🌱</p>
             </td>
             <!-- Columna Derecha (Texto) -->
             <td width="30%" align="center">
@@ -18,7 +15,7 @@
                   <h3>🎧 Now Playing on Spotify</h3>
                   <p align="center">
                   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mdjoxe33io69nk4rictu8ndi6&redirect=true">
-                      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mdjoxe33io69nk4rictu8ndi6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
+                      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mdjoxe33io69nk4rictu8ndi6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&inter=true&scan=true" alt="Spotify Now Playing"/>
                   </a>
                   </p>
                 </div>
@@ -31,7 +28,7 @@
 <!-- Portfolio Web -->
 <div>
   <h3>🌐 Portfolio Web</h3>
-  <p><em>Work in progress...</em> Your welcome to check it when it's finished.</p>
+  <p><em>Work in progress...</em> You're welcome to check it when it's finished.</p>
 </div>
 
 <!-- Skills -->
@@ -49,8 +46,8 @@
 <!-- GitHub Stats -->
 <div align="left">
     <h3>📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats-rofailer.vercel.app/api?username=rofailer&show_icons=true&theme=dracula&hide_border=true" alt="Stats" height="140"/>
-    <img src="https://github-readme-stats-rofailer.vercel.app/api/top-langs/?username=rofailer&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="140"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=rofailer&show_icons=true&theme=dracula&hide_border=true" alt="Stats" height="140"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofailer&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="140"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofailer&theme=dracula&hide_border=true" alt="Streak" height="140"/> <br>
     <sub><em><strong>Note:</strong> The statistics shown here are generated using information from public repositories only.</em></sub>
 </div>
