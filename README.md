@@ -6,13 +6,16 @@
             <td width="50%" align="left">
               <h1>Hi, i'm rofailer 👋🐺</h1>
               <h3>About me:</h3>
-              <p><strong>I'm a multimedia Engineer</strong> and <strong>software developer</strong> focused on <strong>Frontend Development</strong> with a growing interest in <strong>Backend Technology</strong>. Passionate about crafting digital solutions that blend <strong>design</strong>, <strong>interaction</strong>, and <strong>technology</strong>, turning ideas into <strong>dynamic and efficient applications</strong>. Driven by <strong>innovation</strong>, <strong>continuous learning</strong>, and the creation of applications that balance <strong>aesthetics</strong> and <strong>functionality</strong>. Always learning and adding new skills to my personal repertoire 🌱</p>
+              <p><strong>I'm a multimedia Engineer</strong> and <strong>software developer</strong> focused on <strong>Frontend Development</strong> with a growing interest in <strong>Backend Technology</strong>. 
+                  <br><br>Passionate about crafting digital solutions that blend <strong>design</strong>, <strong>interaction</strong>, and <strong>technology</strong>, turning ideas into <strong>dynamic and efficient applications</strong>. 
+                  <br><br>Driven by <strong>innovation</strong>, <strong>continuous learning</strong>, and the creation of applications that balance <strong>aesthetics</strong> and <strong>functionality</strong>. 
+                  <br><br> Always learning and adding new skills to my personal repertoire 🌱</p>
             </td>
             <!-- Columna Derecha (Texto) -->
             <td width="30%" align="center">
                     <!-- Spotify Now Playing -->
                 <div align="center">
-                  <h3>🎧 Now Playing on Spotify</h3>
+                  <h3>🎧 Now Playing</h3>
                   <p align="center">
                   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mdjoxe33io69nk4rictu8ndi6&redirect=true">
                       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mdjoxe33io69nk4rictu8ndi6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&inter=true&scan=true" alt="Spotify Now Playing"/>
